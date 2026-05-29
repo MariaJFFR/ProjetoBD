@@ -122,11 +122,3 @@ Public DbCnnstr As String = "Data Source=<SERVIDOR>\<INSTANCIA>;Initial Catalog=
 ## Versão
 
 `1.4.2.0` — Desenvolvido em 2025 · Tangerina
-
----
-
-## Autores
-
-Projeto desenvolvido no âmbito da unidade curricular de **Bases de Dados**.
-
-Grupo 07 — Turma 2 · Números: 50596 e 50172
